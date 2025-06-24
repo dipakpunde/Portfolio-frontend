@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const baseURL = "http://localhost:3001";
+export const baseURL = "https://portfolio-backend-six-orpin.vercel.app/";
 export const axiosInstance = axios.create({
   baseURL,
   withCredentials: true,
