@@ -15,7 +15,7 @@ In the /personal-portfolio, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [`${import.meta.env.VITE_REACT_APP_BACKEND_BASEURL}`](`${import.meta.env.VITE_REACT_APP_BACKEND_BASEURL}`) to view it in your browser.
+Open [https://portfolio-frontend-2hi6.vercel.app/](https://portfolio-frontend-2hi6.vercel.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
