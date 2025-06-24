@@ -15,7 +15,7 @@ In the /personal-portfolio, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [`${import.meta.env.VITE_REACT_APP_BACKEND_BASEURL}`](`${import.meta.env.VITE_REACT_APP_BACKEND_BASEURL}`) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
